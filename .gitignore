@@ -1,0 +1,19 @@
+# Rust
+/target/
+Cargo.lock
+ECHO is on.
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+ECHO is on.
+# Windows
+Thumbs.db
+Desktop.ini
+ECHO is on.
+# IDE
+.idea/
+*.iml
